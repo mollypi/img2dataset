@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mollypi/img2dataset is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [OpenCV](http://opencv.org/) – Image Processing and Management
 - [Jupyter](http://jupyter.org) – Data Science Notebooks
@@ -11,11 +12,13 @@ mollypi/img2dataset is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mollypi/img2dataset is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1293/opencv-logo-64x64.png' alt='OpenCV'/> [OpenCV](http://opencv.org/) – Image Processing and Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
@@ -25,14 +28,15 @@ mollypi/img2dataset is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mollypi/img2dataset](https://github.com/mollypi/img2dataset)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|13<br/>Tools used|11/15/23 <br/>Report generated|
+|13<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -135,12 +139,12 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[fire](https://pypi.org/fire)|N/A|08/19/21|Romain Beaumont |Apache-2.0|N/A|
-|[pandas](https://pypi.org/pandas)|N/A|08/20/21|Romain Beaumont |BSD-3-Clause|N/A|
-|[pyarrow](https://pypi.org/pyarrow)|N/A|08/23/21|Romain Beaumont |Apache-2.0|N/A|
-|[tqdm](https://pypi.org/tqdm)|N/A|08/11/21|Romain Beaumont |MPL-2.0,MIT|N/A|
+|[fire](https://pypi.org/project/fire)|N/A|08/19/21|Romain Beaumont |Apache-2.0|N/A|
+|[pandas](https://pypi.org/project/pandas)|N/A|08/20/21|Romain Beaumont |BSD-3-Clause|N/A|
+|[pyarrow](https://pypi.org/project/pyarrow)|N/A|08/23/21|Romain Beaumont |Apache-2.0|N/A|
+|[tqdm](https://pypi.org/project/tqdm)|N/A|08/11/21|Romain Beaumont |MPL-2.0,MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
